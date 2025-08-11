@@ -7,7 +7,6 @@ Tenho experiência em C#, .NET, SQLServer, HTML, CSS, e desenvolvimento de API R
 ---
 
 ### 🟣 Linguagens e Tecnologias
-<p>
 <img 
     align="left" 
     alt="C#" 
@@ -61,10 +60,8 @@ Tenho experiência em C#, .NET, SQLServer, HTML, CSS, e desenvolvimento de API R
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-</p>
-
----
-
+<br/>
+<br/>
 
 ### 🟣 Estatísticas
 
